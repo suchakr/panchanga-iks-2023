@@ -8,7 +8,9 @@
 
 ## The selected panchnagas
 
+
 | # | Name | Region | Months |
+| --| ---- | ------ | ------ |
 | 1 | Paambu | Tamil Nadu |  Solar-Rasi |
 | 2 | Kaala Nirnaya | xxx |  Lunar-Amanta |
 
@@ -24,12 +26,14 @@
 ### Parvas - Day of the year
 
 | # | Parva | Paambu |  KN |  .. |  Notes |
+| --| ---- | ------ | ------ | --- | ---- |
 | 1 | Deepavali | ymdhm |  ymdhm |  .. |  Notes |
 | 2 | Day1 | ymdhm |  ymdhm |  .. |  Notes |
 
 ## Eclipses - Begin, Peak, Moksha
 
 | # | Eclipse | Paambu |  KN |  .. |  Notes |
-| 1 | 
+| --| ---- | ------ | ------ | --- | ---- |
+| 1 | Lunar| B,P,E | .. | .. | .. |
 
 ## Conclusion
