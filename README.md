@@ -8,7 +8,7 @@ In the wake of the rapid technological progress since the industrial revolution,
 continent, at least for religious purposes. Just after India’s independence from the British, there was an effort to study the Indian Calendar Systems and constitute an Indian National Calendar. Although such a calendar was proposed, it did not find acceptance either for religious purposes nor for
 the affairs of the state. Hence, seven decades later we have fallen back on the Gregorian calendar for official purposes and the various traditional pañcāṅga-s for religious purposes. There are some differences in the various pañcāṅga-s published from different places today, probably because of the method of computation and models (and their underlying parameters) used. Here, we set out to understand the basic scientific principles behind a pañcāṅga and document differences observed between different pañcāṅga-s.
 
-## Terminologies
+## Basics of Indian Astronomy
 As mentioned earlier, the motion of celestial bodies was a very important aspect of time-keeping. As per today's understanding, the oldest surviving literature is the Rigveda, which was most likely composed by people inhabiting today's Punjab and Haryana i.e., the banks of Sindhu-Sarasvati, otherwise known as the Sapta-sindhu (land of seven rivers). It is to be kept at the back of our mind that the earliest record of Indian civilization is therefore more temperate (latitude of about 30 degree North) than tropical.
 
 The two celestial bodies nobody can miss are the Sun and the Moon. So, we start from there. Today, we know that the Earth revolves around the Sun. But an observer stationed on the Earth would not easily be able to tell whether the Earth revolves around the Sun or otherwise, based on naked-eye observations alone. All ancient civilizations and likewise our ancients made all their observations from the Earth, and so our discussion here also will talk from the same perspective. Since the Sun is seen to rise in the East and set in the West; and also move with respect to the background stars, our ancients naturally
@@ -101,7 +101,7 @@ iti tārāgrahaḥ). Over time, the name tārāgraha was shortened to graha for 
 Each day of the week came to be named after the grahas listed above according to the following rule:
 The grahas are first arranged in increasing order of their speeds as seen from the Earth: Śani (Saturn, 30 years), Guru (Jupiter, 12 years), Kuja (Mars, 2 years), Ravi (Sun, 1 year), Śukra (Venus, 225 days), Budha (Mercury, 88 days) and Candra (Moon, 27.3 days). Each of the seven grahas are assigned one hour out of the 24 hours per day. The graha which gets assigned to the first hour of a particular day, lends its name to that particular day. Since 24 leaves a remainder of 3 upon division by 7; it is easy to see that Ravivāra (Sunday) is followed by Somavāra (Monday) and that Budhavāra (Wednesday) is followed by Guruvāra (Thursday) etc.
 
-#### Imagery of Śrī Krishna’s birth
+### Imagery of Śrī Krishna’s birth
 It was mentioned earlier that Uttarāyaṇa is day for devas and Dakṣiṇāyana is night. Hence, one human year (about 360 days) is one day (like 24 hours) for the devas. Similarly, śukla-pakṣa and kṛṣṇa-pakṣa (the bright fortnight and the dark fortnight) are day and night respectively for the pitṛs. Hence, one human month is one day for the pitṛs.
 
 Bhagavān Śrī Kṛṣṇa was born on Śrāvaṇa-māsa, Kṛṣṇa-pakṣa aṣṭamī night in the Rohiṇī nakṣatra. Śrāvaṇa falls in the rainy season and in Dakṣiṇāyana. Hence, Śrī Krishna’s birth happens when it is night
@@ -109,6 +109,65 @@ for the devas, night for the pitṛs and night for the ṛṣis (humans) too. In
 such a hopelessly gloomy and dark situation, He goes on to show light to the entire world; enduring all what life throws at Him with a rise smile on His face without complaints about anything or anyone. Śrī Krishna’s life and the said imagery is a source of hope and inspiration to humanity when faced with difficult and trying
 situations.
 
+### Sunrise and Sunset timings
+As mentioned above, the length of the day progressively increases during Uttarāyaṇa and progressively decreases during Dakṣiṇayana. Here are the timings of Sunrise and Sunset at New Delhi in IST (which is about 28&deg;N):
+
+| Date | Sunrise | Sunset |
+| --   | -- | -- |
+| 21st March 2022 | 6:25 AM | 6:33 PM |
+| 21st June 2022 | 5:24 AM | 7:23 PM |
+| 21st September 2022 | 6:09 AM | 6:20 PM |
+| 21st December 2022 | 7:10 AM | 5:29 PM |
+
+It is easy to note that the Sunrise happens latest and Sunset earliest on 21st December, which is winter solstice or the shortest day of the year in the Northern hemisphere. Similarly, the earliest Sunrise and latest Sunset happens on 21st June, the longest day of the year or Summer solstice. Therefore, the times of Sunrise and Sunset indicate the time of the year. 
+
+### Moonrise and Moonset timings
+Does the Moon also rise and set like the Sun? If so, in which direction does the Moon rise? The answer to these questions lies in recognizing that the Sun appears to rise in the East due to the rotation of the Earth. Since the Earth rotates about its axis from West to East with a time-period of one day, all the celestial bodies appear to rise in the East and set in the West. Likewise the Moon also appears to rise in the East and set in the West. But the timings of Moonrise and Moonset is very interesting. The following table summarizes the Moonrise and Moonset timings in IST for New Delhi between the previous two Amāvāsyā-s.
+
+| Date | Moonrise | Moonset | Moonrise | Comments |
+|--|--|--|--|--|
+|21st March 2023 | 06:15 AM | 06:15 PM | | Amāvāsyā |
+|22nd March 2023 | 06:49 AM | 07:19 PM | | |
+|23rd March 2023 | 07:22 AM | 08:23 PM | | |
+|24th March 2023 | 07:56 AM | 09:26 PM | | |
+|25th March 2023 | 08:32 AM | 10:29 PM | | |
+|26th March 2023 | 09:11 AM | 11:31 PM | | |
+|27th March 2023 | 09:54 AM | -- | | |
+|28th March 2023 |          | 00:30 AM | 10:42 AM |
+|29th March 2023 |          | 01:25 AM | 11:33 AM | Śukla Aṣṭamī |
+|30th March 2023 |          | 02:15 AM | 12:28 PM | |
+|31st March 2023 |          | 02:59 AM | 01:24 PM | |
+|1st April 2023 |           | 03:38 AM | 02:20 PM | |
+|2nd April 2023 |           | 04:13 AM | 03:16 PM | |
+|3rd April 2023 |           | 04:44 AM | 04:11 PM | |
+|4th April 2023 |           | 05:13 AM | 05:06 PM | |
+|5th April 2023 |           | 05:42 AM | 06:01 PM | |
+|6th April 2023 |           | 06:10 AM | 06:57 PM | Pūrṇimā|
+|7th April 2023 |           | 06:40 AM | 07:56 PM | | 
+|8th April 2023 |           | 07:12 AM | 08:57 PM | |
+|9th April 2023 |           | 07:49 AM | 10:02 PM | |
+|10th April 2023 |          | 08:33 AM | 11:08 PM | |
+|11th April 2023 |          | 09:23 AM | -- | |
+|12th April 2023 | 00:13 AM | 10:22 AM | | |
+|13th April 2023 | 01:13 AM | 11:27 AM | | Kṛṣṇa Aṣṭamī |
+|14th April 2023 | 02:08 AM | 12:35 PM | | |
+|15th April 2023 | 02:55 AM | 01:44 PM | | |
+|16th April 2023 | 03:36 AM | 02:52 PM | | |
+|17th April 2023 | 04:12 AM | 03:57 PM | | |
+|18th April 2023 | 04:46 AM | 05:01 PM | | |
+|19th April 2023 | 05:18 AM | 06:05 PM | | |
+|20th April 2023 | 05:51 AM | 07:08 PM | | Amāvāsyā |
+
+The motion of the Moon is much more complicated than that of the Sun, but there are the following patterns:
+* On Amāvāsyā days, the Sunrise and the Moon will be together, meaning that Sunrise and Moonrise nearly coincide, and similarly Sunset and Moonset nearly coincide.
+* On Pūrṇimā days, the Sun and the Moon will be 180&deg; apart (or diametrically opposite). Hence, Moonrise and Sunset will nearly coincide, and similarly Moonset and Sunrise.
+* On Kṛṣṇa Aṣṭamī days, Moonrise will happen around midnight.
+
+Now, let us get to calculate some ballpark numbers. Two consecutive Amāvāsyā-s are separated by nearly 30 days, and the time of Moonrise will vary over 24 hours from Sunrise on the first Amāvāsyā day and will returning to the Sunrise time on the second Amāvāsyā day. Therefore, the variation in daily Moonrise time should be 24 hours divided by 30 on average. This comes out to be 48 minutes. This could perhaps be the origin of the concept of Muhūrta.
+
+## Terminologies
+Yuga (युग / ಯುಗ)
+: A period of five years consisting of 62 lunar months (The five years are sometimes called by the names: संवत्सर, परिवत्सर, इदावत्सर, अनुवत्सर and इद्वत्सर). Can also mean the four yugas - कृत, त्रेता, द्वापर and कलि. 
 
 ## The selected panchangas
 
